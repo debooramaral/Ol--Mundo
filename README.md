@@ -3,4 +3,4 @@
 
 Repositório criado durante aula do Guanabara.
 
-Essa linha eu adicionei direto d o  site, maneiro :D
+Essa linha eu adicionei direto do  site, maneiro :D
